@@ -1,0 +1,10 @@
+word-combinations
+=================
+A program that outputs a number that represents the position of a given word in an alphabetical list of all possible permutations of that word given its letters. Written for a coding challenge provided by athenahealth. See specification.pdf for the instructions that were provided by athenahealth and for more details about the program.
+
+Author
+======
+Alex Lehman
+Harvard University
+ellelehman@college.harvard.edu
+Instructions provided by athenaheatlh
